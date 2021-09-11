@@ -5,7 +5,7 @@
 - Diego Fernandes Lins
 
 ### Resumo
-Um aplicativo usando flutter que gerencia a quantidade de alunos que podem entrar na faculdade ferraz de vasconcelos seguindo os protocolos de saude.
+Um aplicativo Android usando flutter que gerencia a quantidade de alunos que podem entrar na faculdade ferraz de vasconcelos seguindo os protocolos de saude.
 
 ### Tecnologias
 - Vs code
