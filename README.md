@@ -1,16 +1,13 @@
-# aluno
+## Projeto - Controle de alunos Fatec Ferraz com Flutter
+### Centro Paula Souza - Fatec Ferraz - Curso de Análise e Desenvolvimento de Sistemas
+### Disciplina – Programação para dispositivos moveis II – Prof. Marcos Vasconcelos
 
-A new Flutter project.
+- Diego Fernandes Lins
 
-## Getting Started
+### Resumo
+Um aplicativo Android usando flutter que gerencia a quantidade de alunos que podem entrar na faculdade ferraz de vasconcelos seguindo os protocolos de saude.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias
+- Vs code
+- Dart
+- Flutter
