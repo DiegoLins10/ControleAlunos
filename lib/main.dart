@@ -28,9 +28,9 @@ class _HomeState extends State<Home> {
         _mensagem = "Não chegou ninguem ainda !";
         _pessoa = 0;
         _color = "Colors.white";
-      } else if (_pessoa > 10) {
+      } else if (_pessoa > 50) {
         _mensagem = "Lotado ! Por Favor, Aguarde !";
-        _pessoa = 10;
+        _pessoa = 50;
         _color = "Colors.red";
       } else {
         _mensagem = "Pode Entrar!";
@@ -43,6 +43,12 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Stack(
       children: [
+        AppBar(
+          title: const Text('Fatec ferraz'),
+        ),
+        Container(
+          color: Colors.black,
+        ),
         Image.asset(
           'images/fatec_ferraz_2.jpg',
           fit: BoxFit.contain,
